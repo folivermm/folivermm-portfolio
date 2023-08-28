@@ -1,9 +1,20 @@
 // src/App.js
 
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import './App.css';
 
 function App() {
+  const [data, setData] = useState(null); // State to store the fetched data
+
+  useEffect(() => {
+    const url = `${process.env.REACT_APP_API_BASE_URL}`;
+    fetch(url)
+      .then((response) => response.json())
+      .then((response) => {
+        setData(response); // Set the fetched data to the state
+      });
+  }, []);
+
   return (
     <div className="App">
       <header>
