@@ -70,3 +70,111 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+```
+folivermm-portfolio
+├─ .env.development
+├─ .git
+│  ├─ COMMIT_EDITMSG
+│  ├─ config
+│  ├─ description
+│  ├─ FETCH_HEAD
+│  ├─ HEAD
+│  ├─ hooks
+│  │  ├─ applypatch-msg.sample
+│  │  ├─ commit-msg.sample
+│  │  ├─ fsmonitor-watchman.sample
+│  │  ├─ post-update.sample
+│  │  ├─ pre-applypatch.sample
+│  │  ├─ pre-commit.sample
+│  │  ├─ pre-merge-commit.sample
+│  │  ├─ pre-push.sample
+│  │  ├─ pre-rebase.sample
+│  │  ├─ pre-receive.sample
+│  │  ├─ prepare-commit-msg.sample
+│  │  ├─ push-to-checkout.sample
+│  │  └─ update.sample
+│  ├─ index
+│  ├─ info
+│  │  └─ exclude
+│  ├─ logs
+│  │  ├─ HEAD
+│  │  └─ refs
+│  │     ├─ heads
+│  │     │  └─ main
+│  │     └─ remotes
+│  │        └─ origin
+│  │           └─ main
+│  ├─ objects
+│  │  ├─ 00
+│  │  │  └─ 7d497a4dbf7ef5ef3a5a31a710142fe3045b82
+│  │  ├─ 20
+│  │  │  ├─ 6209472dee9518c34af19c31a98f615c4850c6
+│  │  │  └─ f911fecdb6f033fa382eb448fda9ae9910c726
+│  │  ├─ 35
+│  │  │  └─ 51111a899173fb222950d7560016346d760466
+│  │  ├─ 45
+│  │  │  └─ 5531f52a35f04cce5505c435ea3d3fdf4739c7
+│  │  ├─ 4d
+│  │  │  ├─ 29575de80483b005c29bfcac5061cd2f45313e
+│  │  │  └─ b3606112be5f04148548e2cdc92e27455cfb6c
+│  │  ├─ 53
+│  │  │  └─ ec8e9fb1c160b5d83345d41b433517f015f27d
+│  │  ├─ 55
+│  │  │  └─ d593af46c814d9dbb0816d166a75177a6fa535
+│  │  ├─ 58
+│  │  │  └─ beeaccd87e230076cab531b8f418f40b6d1aeb
+│  │  ├─ 60
+│  │  │  └─ 840f12ac7f2c5ad8ee0331ceef505f928c1b99
+│  │  ├─ 64
+│  │  │  └─ f610dc9f774cf59ac0c7a69576dab9f84a7346
+│  │  ├─ 65
+│  │  │  └─ 5f30f6ac04835dc67225e7c4ff43b1366970f7
+│  │  ├─ 80
+│  │  │  └─ 7f7d5c71ca166c111c79c52feeeba86e68d6ad
+│  │  ├─ 82
+│  │  │  └─ 1afc26035ed7bcbd121e01c400a92520026e7a
+│  │  ├─ 83
+│  │  │  └─ fdddbeb833291cc1f3029acdefd5422eb34943
+│  │  ├─ 8d
+│  │  │  └─ 04d26a611a3aae04772db44e47cc674df86b8b
+│  │  ├─ 8e
+│  │  │  └─ 586556318751c3bfc4ffa3abe2564eb85cd96c
+│  │  ├─ a2
+│  │  │  └─ 53e9f6e7cfb6b10354ded96e476036d179e5df
+│  │  ├─ b0
+│  │  │  └─ bb1d4f1c6e1ed2e3f87c185e4bea2cf59b93e4
+│  │  ├─ d1
+│  │  │  └─ 67ffd205a12490e3ebfeb302386d7a40d6ff82
+│  │  ├─ e3
+│  │  │  └─ 659b1364bea5e1bd3a1110eca06c609678e4fa
+│  │  ├─ e6
+│  │  │  └─ 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+│  │  ├─ eb
+│  │  │  └─ 26773c07c0326d1d9d0855ba0622056a3d8c5e
+│  │  ├─ ec
+│  │  │  └─ 0ae31ed09343c34d58a8d85010f3bce2c04ad5
+│  │  ├─ info
+│  │  └─ pack
+│  └─ refs
+│     ├─ heads
+│     │  └─ main
+│     ├─ remotes
+│     │  └─ origin
+│     │     └─ main
+│     └─ tags
+├─ .gitignore
+├─ package-lock.json
+├─ package.json
+├─ public
+│  ├─ folivermm.jpeg
+│  ├─ index.html
+│  └─ oliver_resume_3.jpg
+├─ README.md
+└─ src
+   ├─ App.css
+   ├─ App.js
+   ├─ index.css
+   └─ index.js
+
+```
