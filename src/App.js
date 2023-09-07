@@ -69,7 +69,7 @@ function App() {
             relationship. My specialties are web design/full-stack web
             development.  I have learned industry best practices and software
             development standards with a focus on Javascript, HTML5, CSS3,
-            ReactJS, ExpressJS, Node.js, PostgreSQL, RESTful APIs, algorithms,
+            ReactJS, ExpressJS, Node.js, PostgreSQL, RESTful APIs, algorithms
             and data structures.
           </p>
         </article>
