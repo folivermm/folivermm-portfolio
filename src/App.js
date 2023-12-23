@@ -48,14 +48,14 @@ function App() {
           technology as a software developer!
         </p>
 
-        <p>Software Developer Resourcefulness:</p>
+        {/* <p>Software Developer Resourcefulness:</p>
         <ul className="list1">
           <li>Expert researcher and fact-finder.</li>
           <li>Mastery of abstract concepts and logic.</li>
           <li>Knowldege and understanding of programming philosophies and languages.</li>
           <li>Articulateness and literacy; confident technical communicator.</li>
           <li>Ingenious problem-solving and creative engineering.</li>
-        </ul>
+        </ul> */}
 
         <hr />
 
